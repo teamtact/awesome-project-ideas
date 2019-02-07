@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/yt2txt-python.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/yt2txt-python)
+
 # Awesome Deep Learning Project Ideas 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
